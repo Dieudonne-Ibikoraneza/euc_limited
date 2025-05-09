@@ -1,4 +1,4 @@
-package model;
+package com.energyutility.euclimited.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
